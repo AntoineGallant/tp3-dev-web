@@ -1,4 +1,4 @@
-  body {
+body {
     background-color:rgb(206, 140, 140);
   }
   
@@ -67,7 +67,7 @@
 
   }
 
-  .ul {
+  ul {
     list-style-type: square;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -75,14 +75,14 @@
     margin-left: 30px;
   }
 
-  .li {
+  li {
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 40px;
     margin-left: 40px;
   }
 
-  .ol{
+  ol{
     margin-top: 20px;
     margin-bottom: 20px;
     margin-right: 40px;
@@ -90,9 +90,6 @@
 
   }
 
-  .img {
+  img {
     position:absolute; top:30px; right: 30px;
   }
-
-
-
