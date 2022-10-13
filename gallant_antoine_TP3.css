@@ -90,6 +90,7 @@
   }
 
   .img {
+    position:absolute;
     text-align: right;
     margin-right: 5px;
   }
