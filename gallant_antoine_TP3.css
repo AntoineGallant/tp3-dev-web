@@ -1,0 +1,99 @@
+  body {
+    background-color: black;
+  }
+  
+  h1 {
+    font-size: 30px;
+    color: white;
+    font-family: Alkalami;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  h1::first-letter {
+    font-size: 125%;
+    font-weight: bold;
+    font-family: Dancing Script;
+  }
+  
+  p {
+    color: green;
+    font-family: trebuchet ms;
+    font-size: 18px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+
+  .header {
+    background-color: grey;
+    text-align: center;
+    padding:15px;
+  }
+
+  .address {
+    font-size: 22px;
+    text-align: right;
+
+  }
+
+  h2 {
+    font-size: 26px;
+    color: red;
+    font-family: Bebas Neue;
+    background-color: rgb(76, 75, 75);
+    margin-top: 30px;
+  }
+
+  h3 {
+    font-weight: bold;
+    display:inline;
+  }
+
+  a:hover {
+    color: whitesmoke;
+    font-size: 125%;
+  }
+  
+  .em {
+    font-weight: bold;
+  }
+
+  .year {
+    font-weight: bold;
+    margin-right: 30px;
+    margin-left: 30px;
+
+  }
+
+  .ul {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 50px;
+    margin-left: 70px;
+  }
+
+  .li {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    margin-left: 70px;
+
+  }
+
+  .ol{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    margin-left: 70px;
+
+  }
+
+  .img {
+    text-align: right;
+    margin-right: 50px;
+  }
+
+
+
