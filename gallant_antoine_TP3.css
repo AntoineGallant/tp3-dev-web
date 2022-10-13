@@ -13,12 +13,12 @@
   h1::first-letter {
     font-size: 125%;
     font-weight: bold;
-    font-family: Dancing Script;
+    font-family: "Dancing Script";
   }
   
   p {
     color: green;
-    font-family: trebuchet ms;
+    font-family: "trebuchet ms";
     font-size: 18px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -41,7 +41,7 @@
   h2 {
     font-size: 26px;
     color: red;
-    font-family: Bebas Neue;
+    font-family: "Bebas Neue";
     background-color: rgb(76, 75, 75);
     margin-top: 30px;
   }
